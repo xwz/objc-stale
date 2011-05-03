@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'stale' target in the 'stale' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
